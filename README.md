@@ -8,15 +8,18 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-Hello everyone! 👋 I'm Pablo Torres, a passionate 21-year-old programmer from Ecuador 🌎. My journey in the world of programming started with a spark of curiosity and has evolved into a true passion for creating innovative solutions.
+### 👨🏻‍💻 &nbsp;About Me
 
-My restless mindset and constant desire to learn drive me to explore new technologies and take on exciting challenges. I'm constantly looking for opportunities to expand my skills and apply my knowledge in projects that make a difference.
+<br/>
 
-In my short but intense experience, I have developed solid skills in JavaScript, PHP, C#, C++, C, React, Vue.js, Laravel. I have the ability to approach problems creatively and find efficient solutions. My goal is to not only stand out in the technological landscape, but also collaborate on meaningful projects that create a positive impact.
-
-In addition to my love for programming, I am passionate about working in a team and learning from brilliant minds who share my enthusiasm. My collaborative approach has allowed me to grow and adapt quickly to dynamic development environments.
-
-I'm excited about the possibility of contributing to exciting projects and growing professionally. If you're looking for someone with energy, enthusiasm and a can-do attitude, I'm your candidate! Let's connect and build the future together! 💻🚀
+👨‍💻  &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓  &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
+🌱  &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+✍️  &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+💬  &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️  &nbsp;You can shoot me an email at pablocesar.t.g@gmail.com! I'll try to respond as soon as I can.\
+📄  &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!\
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -86,19 +89,18 @@ I'm excited about the possibility of contributing to exciting projects and growi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PABLOCESAR2412&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=PABLOCESAR2412&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PABLOCESAR2412&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **🌐 Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-torres-5aab63239/) 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PABLOCESAR2412&icon=5&color=3)](https://visitcount.itsvg.in)
